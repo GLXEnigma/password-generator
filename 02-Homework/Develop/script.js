@@ -4,23 +4,23 @@ var generateBtn = document.querySelector("#generate");
 function getLower(){
   return String.fromCharCode(Math.floor(Math.random() * 26) + 97);
 }
-console.log(getLower());
+
 
 function getUpper(){
   return String.fromCharCode(Math.floor(Math.random() * 26) + 65);
 }
-console.log(getUpper());
+
 
 function getNumber(){
   return String.fromCharCode(Math.floor(Math.random() * 10) + 48);
 }
-console.log(getNumber());
+
 
 function getSymbol(){
   const symbols = "~!@#$%^&*()_+-=`{}|:',./"
   return symbols[Math.floor(Math.random() * symbols.length)];
 }
-console.log(getSymbol());
+
 
 
 //Hit the button to open up prompts and confirm pages
