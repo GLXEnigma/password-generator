@@ -1,6 +1,6 @@
 # password-generator
 this is a random password generator
-To go to the website here is the link to the [deployed project](https://glxenigma.github.io/password-generator/02-Homework/Develop/index.html)
+To go to the website here is the link to the [deployed project](https://glxenigma.github.io/password-generator/02-Homework/Develop/index.html).
 click generate to genereate your very own password!
 you will need to enter the amount of characters you want on your password
 then go through and select what you would like in your password and what you wouldn't
